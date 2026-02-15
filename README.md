@@ -1,8 +1,8 @@
 <!-- <h1 align="center">RuneHand</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.png" alt="magic banner" />
-</p>
+</p> -->
 
 <p align="center">
   I'm a senior full stack developer who writes code like spells - structured, precise, and built to create impact. With 8+ years of hands-on experience, I bring products to life with clean logic, smooth UI, and rock-solid architecture. My hands build what ideas dream of - one line of code at a time.
@@ -71,8 +71,8 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingwizard0831&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwizard0831&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=runehand&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runehand&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
