@@ -4,16 +4,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="380">
+    <td align="center" width="360" valign="middle">
       <a href="https://www.git-ranker.com/en/users/runehand">
         <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBg8jtQ" alt="Git Ranker" />
       </a>
     </td>
-    <td align="center" width="300">
-<sub>
-I’m a senior full stack developer with over 8 years of hands-on experience, building products with clean logic, intuitive UI, and solid architecture. I focus on writing structured, precise code that brings ideas to life and creates real impact, one line at a time.
-</sub>
-</br>
+    <td width="24"></td>
+    <td align="center" width="360" valign="middle">
+      <p align="center">
+        <sub>I’m a senior full stack developer with over 8 years of hands-on experience, building products with clean logic, intuitive UI, and solid architecture. I focus on writing structured, precise code that brings ideas to life and creates real impact, one line at a time.</sub>
+      </p>
+      <br />
       <a href="https://github.com/runehand?tab=followers">
         <img src="https://img.shields.io/github/followers/runehand?style=for-the-badge&logo=github&label=Follow%20on%20GitHub&color=0f766e" alt="Followers" />
       </a>
@@ -83,11 +84,26 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.git-ranker.com/en/users/runehand">
-    <img src="https://www.git-ranker.com/users/runehand/opengraph-image" alt="Git Ranker profile" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="320" valign="middle">
+      <a href="https://www.git-ranker.com/en/users/runehand">
+        <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBg8jtQ" alt="Git Ranker badge" />
+      </a>
+    </td>
+    <td width="24"></td>
+    <td align="left" width="420" valign="middle">
+      <strong>Developer Impact</strong>
+      <br />
+      <sub>Git Ranker highlights my contribution quality, activity, and GitHub consistency in a layout that fits the darker stats section.</sub>
+      <br />
+      <br />
+      <a href="https://www.git-ranker.com/en/users/runehand">
+        <img src="https://img.shields.io/badge/View%20Git%20Ranker%20Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View Git Ranker profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=tokyonight" alt="Profile details" />
