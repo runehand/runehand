@@ -1,12 +1,25 @@
-<!-- <h1 align="center">RuneHand</h1> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,50:0f766e,100:0ea5e9&height=220&section=header&text=RUNEHAND&fontSize=64&fontColor=ecfeff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Clean%20Logic%20%7C%20Solid%20Architecture&descAlignY=58" width="100%" alt="Header banner" />
+</div>
 
-<!-- <p align="center">
-  <img src="./banner.png" alt="magic banner" />
-</p> -->
-
-<p align="center">
-  I'm a senior full stack developer who writes code like spells - structured, precise, and built to create impact. With 8+ years of hands-on experience, I bring products to life with clean logic, smooth UI, and rock-solid architecture. My hands build what ideas dream of - one line of code at a time.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="380">
+      <a href="https://www.git-ranker.com/en/users/runehand">
+        <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBg8jtQ" alt="Git Ranker" />
+      </a>
+    </td>
+    <td align="center" width="300">
+<sub>
+I’m a senior full stack developer with over 8 years of hands-on experience, building products with clean logic, intuitive UI, and solid architecture. I focus on writing structured, precise code that brings ideas to life and creates real impact, one line at a time.
+</sub>
+</br>
+      <a href="https://github.com/runehand?tab=followers">
+        <img src="https://img.shields.io/github/followers/runehand?style=for-the-badge&logo=github&label=Follow%20on%20GitHub&color=0f766e" alt="Followers" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,8 +84,23 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=runehand&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runehand&layout=compact&theme=tokyonight" height="150"/>
+  <a href="https://www.git-ranker.com/en/users/runehand">
+    <img src="https://www.git-ranker.com/users/runehand/opengraph-image" alt="Git Ranker profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runehand&theme=tokyonight" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runehand&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=runehand&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runehand&theme=tokyonight" alt="Repos per language" />
 </p>
 
 ---
