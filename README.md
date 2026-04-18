@@ -84,39 +84,18 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 
 ### 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="320" valign="middle">
-      <a href="https://www.git-ranker.com/en/users/runehand">
-        <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBg8jtQ" alt="Git Ranker badge" />
-      </a>
-    </td>
-    <td width="24"></td>
-    <td align="left" width="420" valign="middle">
-      <strong>Developer Impact</strong>
-      <br />
-      <sub>Git Ranker highlights my contribution quality, activity, and GitHub consistency in a layout that fits the darker stats section.</sub>
-      <br />
-      <br />
-      <a href="https://www.git-ranker.com/en/users/runehand">
-        <img src="https://img.shields.io/badge/View%20Git%20Ranker%20Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View Git Ranker profile" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=nord_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runehand&theme=tokyonight" alt="Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runehand&theme=tokyonight" alt="Most commit language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runehand&theme=nord_dark" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runehand&theme=nord_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=runehand&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runehand&theme=tokyonight" alt="Repos per language" />
+  <img height="170" src="https://streak-stats.demolab.com?user=runehand&hide_border=true&background=2E3440&stroke=4C566A&ring=88C0D0&fire=8FBCBB&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=88C0D0&sideLabels=E5E9F0&dates=81A1C1" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runehand&theme=nord_dark" alt="Repos per language" />
 </p>
 
 ---
