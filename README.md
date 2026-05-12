@@ -84,19 +84,19 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=nord_dark" alt="Profile details" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runehand&theme=nord_dark" alt="Stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runehand&theme=nord_dark" alt="Most commit language" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=runehand&hide_border=true&background=2E3440&stroke=4C566A&ring=88C0D0&fire=8FBCBB&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=88C0D0&sideLabels=E5E9F0&dates=81A1C1" alt="GitHub streak" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runehand&theme=nord_dark" alt="Repos per language" />
-</p>
+</p> -->
 
 ---
 
